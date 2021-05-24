@@ -53,7 +53,10 @@
                 <SearchBar Grid.Column="0" Placeholder="Serach" BackgroundColor="Transparent" HorizontalOptions="Fill"/>
                 
             </Grid>
-            <CollectionView ItemsSource="{Binding Categories}" Margin="0,20" HeightRequest="125" VerticalOptions="FillAndExpand"
+            <CollectionView ItemsSource="{Binding Categories}" 
+                            Margin="0,20" 
+                            HeightRequest="125" 
+                            VerticalOptions="FillAndExpand"
                             HorizontalScrollBarVisibility="Never"
                             ItemsLayout="HorizontalList"
                             SelectionChanged="CollectionView_SelectionChanged"

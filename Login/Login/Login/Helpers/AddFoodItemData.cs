@@ -22,7 +22,7 @@ namespace Login.Helpers
                 {
                     ProductID = 1,
                     CategoryID = 1,
-                    ImageUrl = "http://cdn.getir.com/product/5cac8d0b03c5fd0001497976_tr_1579677305629.jpeg",
+                    ImageUrl = "walpaper1.png",
                     Name = "Muz",
                     Description = "Doğal Muz",
                     Rating ="4.8",
@@ -34,7 +34,7 @@ namespace Login.Helpers
                 {
                     ProductID = 2,
                     CategoryID = 1,
-                    ImageUrl = "http://cdn.getir.com/product/5cac8d0b03c5fd0001497976_tr_1579677305629.jpeg",
+                    ImageUrl = "walpaper1.png",
                     Name = "Muz",
                     Description = "Doğal Muz",
                     Rating ="4.8",
@@ -46,7 +46,7 @@ namespace Login.Helpers
                 {
                     ProductID = 3,
                     CategoryID = 1,
-                    ImageUrl = "http://cdn.getir.com/product/5cac8d0b03c5fd0001497976_tr_1579677305629.jpeg",
+                    ImageUrl = "walpaper1.png",
                     Name = "Muz",
                     Description = "Doğal Muz",
                     Rating ="4.8",
@@ -58,7 +58,7 @@ namespace Login.Helpers
                 {
                     ProductID = 4,
                     CategoryID = 1,
-                    ImageUrl = "http://cdn.getir.com/product/5cac8d0b03c5fd0001497976_tr_1579677305629.jpeg",
+                    ImageUrl = "walpaper1.png",
                     Name = "Muz",
                     Description = "Doğal Muz",
                     Rating ="4.8",
@@ -70,7 +70,7 @@ namespace Login.Helpers
                 {
                     ProductID = 5,
                     CategoryID = 2,
-                    ImageUrl = "http://cdn.getir.com/product/5cac8d0b03c5fd0001497976_tr_1579677305629.jpeg",
+                    ImageUrl = "walpaper1.png",
                     Name = "Muz",
                     Description = "Doğal Muz",
                     Rating ="4.8",
@@ -82,7 +82,7 @@ namespace Login.Helpers
                 {
                     ProductID = 6,
                     CategoryID = 2,
-                    ImageUrl = "http://cdn.getir.com/product/5cac8d0b03c5fd0001497976_tr_1579677305629.jpeg",
+                    ImageUrl = "walpaper1.png",
                     Name = "Muz",
                     Description = "Doğal Muz",
                     Rating ="4.8",
@@ -94,7 +94,7 @@ namespace Login.Helpers
                 {
                     ProductID = 7,
                     CategoryID = 3,
-                    ImageUrl = "http://cdn.getir.com/product/5cac8d0b03c5fd0001497976_tr_1579677305629.jpeg",
+                    ImageUrl = "walpaper1.png",
                     Name = "Muz",
                     Description = "Doğal Muz",
                     Rating ="4.8",
@@ -106,7 +106,7 @@ namespace Login.Helpers
                 {
                     ProductID = 8,
                     CategoryID = 3,
-                    ImageUrl = "http://cdn.getir.com/product/5cac8d0b03c5fd0001497976_tr_1579677305629.jpeg",
+                    ImageUrl = "walpaper1.png",
                     Name = "Muz",
                     Description = "Doğal Muz",
                     Rating ="4.8",

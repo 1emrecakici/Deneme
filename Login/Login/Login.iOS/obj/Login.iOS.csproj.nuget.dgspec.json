@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emrem\\source\\repos\\Login\\Login\\Login.iOS\\Login.iOS.csproj": {}
+    "C:\\Users\\emrem\\Documents\\GitHub\\Deneme\\Login\\Login\\Login.iOS\\Login.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emrem\\source\\repos\\Login\\Login\\Login.iOS\\Login.iOS.csproj": {
+    "C:\\Users\\emrem\\Documents\\GitHub\\Deneme\\Login\\Login\\Login.iOS\\Login.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emrem\\source\\repos\\Login\\Login\\Login.iOS\\Login.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\emrem\\Documents\\GitHub\\Deneme\\Login\\Login\\Login.iOS\\Login.iOS.csproj",
         "projectName": "Login.iOS",
-        "projectPath": "C:\\Users\\emrem\\source\\repos\\Login\\Login\\Login.iOS\\Login.iOS.csproj",
+        "projectPath": "C:\\Users\\emrem\\Documents\\GitHub\\Deneme\\Login\\Login\\Login.iOS\\Login.iOS.csproj",
         "packagesPath": "C:\\Users\\emrem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emrem\\source\\repos\\Login\\Login\\Login.iOS\\obj\\",
+        "outputPath": "C:\\Users\\emrem\\Documents\\GitHub\\Deneme\\Login\\Login\\Login.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\emrem\\source\\repos\\Login\\Login\\Login\\Login.csproj": {
-                "projectPath": "C:\\Users\\emrem\\source\\repos\\Login\\Login\\Login\\Login.csproj"
+              "C:\\Users\\emrem\\Documents\\GitHub\\Deneme\\Login\\Login\\Login\\Login.csproj": {
+                "projectPath": "C:\\Users\\emrem\\Documents\\GitHub\\Deneme\\Login\\Login\\Login\\Login.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\emrem\\source\\repos\\Login\\Login\\Login\\Login.csproj": {
+    "C:\\Users\\emrem\\Documents\\GitHub\\Deneme\\Login\\Login\\Login\\Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emrem\\source\\repos\\Login\\Login\\Login\\Login.csproj",
+        "projectUniqueName": "C:\\Users\\emrem\\Documents\\GitHub\\Deneme\\Login\\Login\\Login\\Login.csproj",
         "projectName": "Login",
-        "projectPath": "C:\\Users\\emrem\\source\\repos\\Login\\Login\\Login\\Login.csproj",
+        "projectPath": "C:\\Users\\emrem\\Documents\\GitHub\\Deneme\\Login\\Login\\Login\\Login.csproj",
         "packagesPath": "C:\\Users\\emrem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emrem\\source\\repos\\Login\\Login\\Login\\obj\\",
+        "outputPath": "C:\\Users\\emrem\\Documents\\GitHub\\Deneme\\Login\\Login\\Login\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -135,6 +135,10 @@
             "Xamarin.Forms.Visual.Material": {
               "target": "Package",
               "version": "[5.0.0.2012, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           },
           "imports": [

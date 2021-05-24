@@ -26,5 +26,14 @@ namespace Login.Views
             var afd = new AddFoodItemData();
             await afd.AddFoodItemsAsync();
         }
+
+        private void ButtonCart_Clicked(object sender, EventArgs e)
+        {
+            var cct = new CreateCartTable();
+            if (cct.CreateTable())
+                DisplayAlert("Success", "Cart Table Created", "Ok");
+            else
+                DisplayAlert("Error", "Error while creating table", "Ok");
+        } 
     }
 }

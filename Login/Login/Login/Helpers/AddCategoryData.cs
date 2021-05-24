@@ -60,7 +60,7 @@ namespace Login.Helpers
                     CategoryID =6,
                     CategoryName = "Cakes",
                     CategoryPoster ="MainDessert",
-                    ImageUrl ="Dessert.png"
+                    ImageUrl ="walpaper1.png"
 
                 }
 

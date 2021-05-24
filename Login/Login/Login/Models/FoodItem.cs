@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Login.Models
 {
-    class FoodItem
+    public class FoodItem
     {
         public int ProductID { get; set; }
         public string ImageUrl { get; set; }
